@@ -1,6 +1,7 @@
 # 🌍 Global Sales Data Analytics Project – 2025
 
-<img width="1536" height="1024" alt="Global Sales Analytics Banner" src="YOUR_BANNER_IMAGE_LINK">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ea7fc0f-3991-4ff5-b832-c7040a1c13b2" />
+
 
 ### End-to-End Retail Sales Analytics & Executive Intelligence Platform
 
